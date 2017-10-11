@@ -8,6 +8,8 @@ body,html {
     padding-top: 10px;
     padding-left: 8px;
     overflow: hidden;
+    background-image: url("111.jpg");
+
 }
 .cat img {
      border: solid #FF8000;   

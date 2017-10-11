@@ -8,6 +8,7 @@ body,html {
     padding-top: 10px;
     padding-left: 8px;
     overflow: hidden;
+    background-image: url("111.jpg");
 }
 .fish img {
     border: solid #F7D358;   
