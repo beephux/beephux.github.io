@@ -1,0 +1,64 @@
+body,html {
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Trebuchet MS";
+    font-size: 30px;
+    padding-top: 10px;
+    padding-left: 8px;
+    overflow: hidden;
+    background-image: url("111.jpg");
+}
+
+.dog img {
+    border: solid #58ACFA;
+}
+.dog ul li {
+    display: inline;
+}
+.dog ul {
+    list-style: none;    
+}
+.image {
+    width: 1000px;
+    margin: auto;
+    padding-top: 380px;
+}
+.image ul {
+    float: right;
+    margin: 10px;
+}
+.image img {
+    margin: 0px;
+    border-width: 5px;
+    border-radius: 20px;
+}
+.logo {
+    float: left;
+}
+.menu ul {
+    float: left;
+    list-style: none;
+    line-height: 180px;
+    padding-left: 180px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    letter-spacing: 7px;
+    text-shadow: 3px 2px #FE2E64;
+    size: 20px;
+}
+a:hover {
+    color: #80FF00;
+    font-size: 130%;
+}
+img:hover {
+    border-radius: 65px;
+    border-style: none; 
+    
+
+
+
+
